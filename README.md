@@ -1,4 +1,4 @@
-# Touchstone 3 — North Star Bakery
+# Touchstone 3 - North Star Bakery
 
 This project continues the four-page HTML-only Touchstone 2 website and adds shared, responsive CSS.
 
